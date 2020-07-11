@@ -16,7 +16,6 @@ export class AppComponent implements OnInit {
     // this.container.documentEditor.save('sample','Docx');
     this.documentEditor.save('sample','Docx');
   }
-  title = 'synchack';
   ngOnInit(): void {
   }
 }
